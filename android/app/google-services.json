@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540457672711",
+    "project_id": "flash-chat-f2828",
+    "storage_bucket": "flash-chat-f2828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540457672711:android:b9909559fdb507974fcaa2",
+        "android_client_info": {
+          "package_name": "com.temidire.new_flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdNO4hpRjwHrB4nt1mXPYrkhUTUEC0Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
